@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Douglas Richter
-- 👨🏼‍💻 I am QA Enginner with 11 years of Experience.
+- 👨🏼‍💻 I am QA Enginner with 12 years of Experience.
 - 🎓 2017: Postgraduate in Project Management IT.
 - 🎓 2012: Bachelor Degree in Information System.
